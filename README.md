@@ -1,1 +1,1 @@
-I'm currently learning ML techniques at an advanced stage. Contact: neto.ajp@gmail.com
+I'm learning ML techniques. Contact: neto.ajp@gmail.com
