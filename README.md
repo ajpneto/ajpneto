@@ -1,1 +1,1 @@
-I'm learning ML techniques. Contact: neto.ajp@gmail.com
+Simple, responsive web sites with accessible information and services delivery. Contact: neto.ajp@gmail.com
